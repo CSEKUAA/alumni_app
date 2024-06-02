@@ -3,6 +3,8 @@
 
 Alumni App is a comprehensive alumni application built using Flutter. It is designed to work seamlessly across all platforms, including Android, iOS, and the web. The app is fully responsive, ensuring a consistent user experience on various devices.
 
+![image](https://github.com/CSEKUAA/alumni_app/assets/11449967/03d12173-499b-4483-ba66-edfb75fec45a)
+
 ## Features
 
 - **Cross-Platform Support**: Works on Android, iOS, and web.
